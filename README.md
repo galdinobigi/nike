@@ -74,3 +74,5 @@ void loop() {
 
   // 3. O LED Fixo (ledFixo) já está aceso e não precisa de controle no loop.
 }
+<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/d65e7123-b645-4c92-a111-53f9abe437ed" />
+
